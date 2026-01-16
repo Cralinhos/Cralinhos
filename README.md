@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Carlos!
 
-<!--
-**Cralinhos/Cralinhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building modern, interactive, and well-structured applications using best practices in both front-end and back-end development.
 
-Here are some ideas to get you started:
+🚀 What am I currently working on?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on projects focused on:
+
+Modern web applications with React
+
+Responsive and well-organized interfaces
+
+Systems with automation and API integrations
+
+I'm also constantly studying and improving my skills in web and software development.
+
+🛠️ Tools and technologies I use
+
+Some of the main technologies I work with on a daily basis:
+
+JavaScript / TypeScript
+
+React
+
+HTML & CSS
+
+Node.js
+
+Git & GitHub
+
+Figma (for UI and prototyping)
