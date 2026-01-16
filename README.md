@@ -1,31 +1,24 @@
-👋 Hi, I'm Carlos!
+Hey there!
 
-I'm a developer focused on building modern, interactive, and well-structured applications using best practices in both front-end and back-end development.
+I'm Carlos, a software developer based in Brazil.
 
-🚀 What am I currently working on?
+I design and build modern web applications with a focus on clean UI, smooth animations, and solid architecture.
+If I have an idea, I like to prototype it fast and turn it into something real.
 
-I'm currently working on projects focused on:
+My main tech stack is React, JavaScript/TypeScript, Node.js, and GSAP.
+I love working with animations, interactive layouts, and creative front-end experiences.
 
-Modern web applications with React
+I build projects ranging from landing pages and portfolios to full web systems with APIs and automation.
 
-Responsive and well-organized interfaces
+## What I'm working on
+- Modern React applications
+- Responsive UI systems
+- Automation and API integrations
 
-Systems with automation and API integrations
-
-I'm also constantly studying and improving my skills in web and software development.
-
-🛠️ Tools and technologies I use
-
-Some of the main technologies I work with on a daily basis:
-
-JavaScript / TypeScript
-
-React
-
-HTML & CSS
-
-Node.js
-
-Git & GitHub
-
-Figma (for UI and prototyping)
+## Tech Stack
+- React
+- JavaScript / TypeScript
+- HTML & CSS
+- Node.js
+- Git & GitHub
+- Figma
