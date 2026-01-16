@@ -1,7 +1,3 @@
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000&section=header">
-
 <div align="center">
 
   <b>`Carlos Augusto`</b>
@@ -30,10 +26,7 @@ Me chamo Carlos Augusto, tenho 21 anos e sou natural do Maranhão. Atualmente cu
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000&section=footer">
+</div> </br>
 
 
 <div align="center">
