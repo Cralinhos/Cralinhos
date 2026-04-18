@@ -8,7 +8,7 @@
 </div>
 
 <div align="justify">
-Me chamo Carlos Augusto, tenho 21 anos e sou natural do Maranhão. Atualmente cursando o último período de Redes de Computadores no IFMA. Atuo com desenvolvimento web, utilizando HTML, CSS, JavaScript e frameworks como React para criar interfaces modernas, responsivas e escaláveis. Meu foco é construir aplicações web visualmente atraentes, tecnicamente robustas e centradas na experiência do usuário, sempre buscando unir performance e design.
+My name is Carlos Augusto, I am 21 years old, I am from Maranhão, and I hold a degree in Computer Networks from IFMA. I work with web development, using HTML, CSS, JavaScript, and frameworks such as React to create modern, responsive, and scalable interfaces. My focus is on developing web applications that are visually appealing, technically robust, and centered on the user experience, always aiming to combine performance and design.
 </div> <br>
 
 <div align="">
